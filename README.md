@@ -39,3 +39,7 @@ The Project is written in C and in accordance with "The Norm".
     • C is used to crouch
     • esc to exit
     
+<img src="/images/garden.png" width="800">
+<img src="/images/buddha.png" width="800">
+<img src="/images/bulbasaur.png" width="800">
+<img src="/images/room.png" width="800">
