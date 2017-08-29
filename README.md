@@ -46,4 +46,3 @@ The Project is written in C and in accordance with "The Norm".
 All worlds are generated from a series of numerical grids that specify the textures and locations of walls, floors, ceilings, and sprites:
 
 <img src="/images/file_example.png" width="600">
-<img src="/images/room.png" width="800"> 
