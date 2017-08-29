@@ -3,7 +3,7 @@ The 3rd project of the 42us graphics branch
 
 ### --Project Description--
 
-ft_wolf3d is a Wolfenstein3D gaming engine that implements a ray-casting algorithm. Multiple wall/ceiling/floor textures are supported, as well as unlimited sprites and object collision detection. To facilitate quick frame rendering, I've employed both multithreading and principle of efficient calculating.
+ft_wolf3d is a Wolfenstein3D gaming engine that implements a ray-casting algorithm. Multiple wall/ceiling/floor textures are supported, as well as unlimited sprites and object collision detection. To facilitate quick frame rendering, I've employed both multithreading and principle of efficient calculating. 
 
 #### --Coding Style--
 
@@ -42,4 +42,8 @@ The Project is written in C and in accordance with "The Norm".
 <img src="/images/garden.png" width="800">
 <img src="/images/buddha.png" width="800">
 <img src="/images/bulbasaur.png" width="800">
+
+All worlds are generated from a series of numerical grids that specify the textures and locations of walls, floors, ceilings, and sprites:
+
+<img src="/images/file_example.png" width="600">
 <img src="/images/room.png" width="800"> 
